@@ -1,0 +1,10 @@
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\bin\Debug\Remote Administration Tool.exe.config
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\bin\Debug\Remote Administration Tool.exe
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\bin\Debug\Remote Administration Tool.pdb
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote Administration Tool.csproj.AssemblyReference.cache
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote_Administration_Tool.Form1.resources
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote_Administration_Tool.Properties.Resources.resources
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote Administration Tool.csproj.GenerateResource.cache
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote Administration Tool.csproj.CoreCompileInputs.cache
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote Administration Tool.exe
+C:\Users\pitbullt0r\source\repos\Remote Administration Tool\Remote Administration Tool\obj\Debug\Remote Administration Tool.pdb
